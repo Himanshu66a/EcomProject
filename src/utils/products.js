@@ -37,25 +37,25 @@ export const SliderData = [
   {
       id: 1,
       title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      desc: " ",
       cover: sofaSlide,
   },
   {
       id: 2,
       title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      desc: " ",
       cover: phone08,
   },
   {
       id: 3,
       title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      desc: " ",
       cover: wireless01,
   },
   {
       id: 4,
       title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      desc: " ",
       cover: watchSlide,
   },
 ];
@@ -64,19 +64,19 @@ export const serviceData = [
   {
     icon: <ion-icon name="car"></ion-icon>,
     title: "Free Shipping",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: " ",
     bg: "#fdefe6",
   },
   {
     icon: <ion-icon name="card"></ion-icon>,
     title: "Safe Payment",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: " ",
     bg: "#ceebe9",
   },
   {
     icon: <ion-icon name="shield-half-outline"></ion-icon>,
     title: "Secure Payment",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: " ",
     bg: "#e2f2b2",
   },
   {
