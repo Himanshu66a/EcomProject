@@ -82,7 +82,7 @@ export const serviceData = [
   {
     icon: <ion-icon name="headset"></ion-icon>,
     title: " Back Guarantee",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: " ",
     bg: "#d6e5fb",
   },
 ];
